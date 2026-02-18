@@ -10,4 +10,11 @@ Analysis on partnering with a brazilian company
 ---
 1. numbered point 1
 2. numbered point 2
+--- 
+`this is one line of code`
 
+```
+this is a multi-line code block
+where I can write as many lines of code
+as I want
+```
