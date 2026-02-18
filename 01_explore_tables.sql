@@ -1,6 +1,6 @@
 USE magist;
 
--- 1. How many orders are there in the dataset? 
+-- 1. How many orders are there in the dataset Magist? 
 SELECT 
     COUNT(*)
 FROM
