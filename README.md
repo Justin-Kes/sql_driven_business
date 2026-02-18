@@ -19,11 +19,13 @@ where I can write as many lines of code
 as I want
 ```
 --- 
-*this is italic*
-_this is italic also_
-**this is bold**
-__this is also bold__
-***this is italic and bold***
-*__this is also italic and bold__*
-<ins>this is underlined<ins>
-~~this is strike-through~~
+*this is italic*\
+_this is italic also_\
+**this is bold**\
+__this is also bold__\
+***this is italic and bold***\
+*__this is also italic and bold__*\
+<ins>this is underlined<ins>\
+~~this is strike-through~~\
+--- 
+[This is google](https://www.google.com)
